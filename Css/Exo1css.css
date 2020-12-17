@@ -1,0 +1,25 @@
+body{
+     height: 100vh;
+     margin: 0;
+}
+div.bandeau {
+     height: 10%;
+     background-color: #00eeff;
+     text-align: center;
+     }
+div.contenu {
+     height: 80%;
+     background-color: #ffc400;
+     text-align: center;
+}
+div.pied {
+     height: 10%;
+     background-color: #00ff9d;
+     text-align: center;
+}
+div.centre {
+     text-align: center;
+     display:flex;
+     justify-content: center;
+     flex-direction: column;
+}
